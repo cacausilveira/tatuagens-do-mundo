@@ -1,4 +1,4 @@
-## Tatuagens do Mundo: Sua Inspiração Tatuada 
+## Tatuagens do Mundo - Imersão Dev com Google Gemini
 
 **Descubra a tatuagem perfeita com apenas alguns cliques!**
 
